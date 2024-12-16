@@ -11,7 +11,7 @@ colcon build
 ## 1.2 Clone this repo 
 Make sure you clone the repo in your robot and your remote PC 
 ```
-git clone -b ros2-humble https://github.com/Sourav9348/ros2_humble.git
+git clone https://github.com/Sourav9348/ros2_humble.git
 ```
 ```
 cd ~/your workscpace
